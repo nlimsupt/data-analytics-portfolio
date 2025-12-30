@@ -1,6 +1,13 @@
-## data-analytics-portfolio
+## Data Analytics Portfolio – Napaphach Limsupthana
 
-### Projects
-- Bank Marketing Term Deposit Prediction (Logistic Regression, Random Forest)
-- Credit Card Fraud Detection (Imbalanced Data, SMOTE)
-- Data Warehouse Design (Kimball Star Schema)
+This repository serves as a central index of my data analytics projects.
+
+### 📊 Projects
+
+- **Bank Marketing Term Deposit Prediction**  
+  Classification, Imbalanced Data, SMOTE  
+  🔗 GitHub: [link](https://github.com/nlimsupt/bank-marketing-term-deposit-prediction)
+
+- **Credit Card Fraud Detection**  
+  Fraud Analytics, Random Forest, PR-AUC  
+  🔗 GitHub: [link](https://github.com/nlimsupt/credit-card-fraud-detection)
