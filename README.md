@@ -4,6 +4,10 @@ This repository serves as a central index of my data analytics projects.
 
 ### 📊 Projects
 
+- **GameStop (GME) News & Reddit Analytics**
+  Web Mining · Text Analytics · Sentiment Analysis · Topic Modeling · Time-Series Analysis
+  🔗 GitHub: [link](https://github.com/nlimsupt/gme-reddit-news_sentiment-analysis)
+
 - **Bank Marketing Term Deposit Prediction**  
   Customer Analytics · Classification · SMOTE · PCA · Model Comparison   
   🔗 GitHub: [link](https://github.com/nlimsupt/bank-marketing-term-deposit-prediction)
