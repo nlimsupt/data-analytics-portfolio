@@ -15,3 +15,7 @@ This repository serves as a central index of my data analytics projects.
 - **Credit Card Fraud Detection**  
   Fraud Analytics · Imbalanced Learning · XGBoost · PR-AUC · Cost-Sensitive Modeling  
   🔗 GitHub: [link](https://github.com/nlimsupt/credit-card-fraud-detection)
+
+- **Healthcare Operations Analytics**
+  SQL · MySQL · Data Validation · KPI Analysis · Inventory Analytics · Supplier Risk · Production Capacity
+  🔗 GitHub: [link](https://github.com/nlimsupt/Healthcare-Operations-Analytics)
